@@ -1,4 +1,5 @@
-# Learning-PyTorch
+# Learning PyTorch
+try learn Pytorch with youtube and torch doc.
 
 ## CodeMe.com
 this is course youtube link:
